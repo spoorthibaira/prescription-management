@@ -19,6 +19,13 @@ The Prescription Management System is a basic C application designed to handle p
 - Easy to compile and run on any C compiler  
 
 ---
+## 🖼 Screenshot
+
+Here is how the program looks:
+
+![Prescription Management System Screenshot](Screenshot(1).png)
+---
+
 
 ## 🛠 How to Compile and Run
 
@@ -26,3 +33,4 @@ The Prescription Management System is a basic C application designed to handle p
 ```bash
 gcc hms.c
 .\a.exe
+
