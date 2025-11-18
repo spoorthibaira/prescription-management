@@ -23,7 +23,7 @@ The Prescription Management System is a basic C application designed to handle p
 
 Here is how the program looks:
 
-![Prescription Management System Screenshot](Screenshot(1).png)
+![Prescription Management System Screenshot](Screenshot (1).png)
 ---
 
 
