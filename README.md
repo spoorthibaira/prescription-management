@@ -5,7 +5,7 @@ This program allows users to store, manage, and view prescription details effici
 
 ---
 
-## 📌 Project Description
+## 📌 Abstrat
 The Prescription Management System is a basic C application designed to handle patient prescription records. It uses structures to group related information like patient name, doctor name, medicine, and dosage. The system allows adding multiple prescriptions and viewing all stored prescriptions through a simple text-based menu interface.
 
 ---
