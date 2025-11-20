@@ -20,7 +20,7 @@ The Prescription Management System is a basic C application designed to handle p
 
 ---
 
-# 📌 Technical Requirements (Aligned With Provided Code)
+# 📌 Technical Requirements 
 
 ## 1. **System Overview**
 
