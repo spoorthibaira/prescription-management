@@ -102,7 +102,8 @@ When the user chooses to view prescriptions:
 
 Here is how the program looks:
 
-![Prescription Management System Screenshot](output.png)
+<img width="236" height="261" alt="Screenshot 2025-11-20 134318" src="https://github.com/user-attachments/assets/9e175c3c-7abc-459f-a00b-c7d95a04e053" />
+
 ---
 
 
@@ -110,6 +111,8 @@ Here is how the program looks:
 
 ### **Using GCC Compiler**
 ```bash
-gcc hms.c
+gcc hms.c<img width="717" height="105" alt="Screenshot 2025-11-20 134646" src="https://github.com/user-attachments/assets/f4d6f275-aa9c-4802-9ea3-ed8eab4983c9" />
+<img width="221" height="146" alt="Screenshot 2025-11-20 134525" src="https://github.com/user-attachments/assets/c854044b-e53b-4379-8cd7-dd08f070c8e1" />
+
 .\a.exe
 
