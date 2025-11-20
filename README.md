@@ -103,6 +103,12 @@ When the user chooses to view prescriptions:
 Here is how the program looks:
 
 <img width="236" height="261" alt="Screenshot 2025-11-20 134318" src="https://github.com/user-attachments/assets/9e175c3c-7abc-459f-a00b-c7d95a04e053" />
+<img width="221" height="146" alt="Screenshot 2025-11-20 134525" src="https://github.com/user-attachments/assets/2e39f515-8606-4aa8-a9db-5cb1ba51bd4c" />
+
+<img width="717" height="105" alt="Screenshot 2025-11-20 134646" src="https://github.com/user-attachments/assets/416d0dde-63d4-4e5e-9d1b-5d1c19bf1f91" />
+<img width="255" height="167" alt="Screenshot 2025-11-20 134816" src="https://github.com/user-attachments/assets/de8bd4da-59e5-494d-ba07-cbc5fc50784a" />
+<img width="213" height="108" alt="Screenshot 2025-11-20 135151" src="https://github.com/user-attachments/assets/d7f32902-1dc6-498a-bc66-6d02f0752a63" />
+<img width="348" height="70" alt="Screenshot 2025-11-20 135308" src="https://github.com/user-attachments/assets/0d5230a2-c648-4137-a411-960b43f3685e" />
 
 ---
 
@@ -111,8 +117,6 @@ Here is how the program looks:
 
 ### **Using GCC Compiler**
 ```bash
-gcc hms.c<img width="717" height="105" alt="Screenshot 2025-11-20 134646" src="https://github.com/user-attachments/assets/f4d6f275-aa9c-4802-9ea3-ed8eab4983c9" />
-<img width="221" height="146" alt="Screenshot 2025-11-20 134525" src="https://github.com/user-attachments/assets/c854044b-e53b-4379-8cd7-dd08f070c8e1" />
-
+gcc hms.c
 .\a.exe
 
